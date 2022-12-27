@@ -1,0 +1,6 @@
+Civil Engineering/Civil_Engineering.txt
+Computer Science/Computer_Science.txt
+Mathematics/Mathematics.txt
+Physics/Physics.txt
+Psychology/Psychology.txt
+
